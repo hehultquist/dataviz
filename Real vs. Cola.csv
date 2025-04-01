@@ -1,127 +1,127 @@
 ﻿School,Role,Pay,Adjustment
-Amherst,full_2020,"155,833",Real
-Bates,full_2020,"134,487",Real
-Bowdoin,full_2020,"146,857",Real
-Carleton,full_2020,"141,305",Real
-Claremont McKenna,full_2020,"176,098",Real
-Colby,full_2020,"145,971",Real
-Colgate,full_2020,"151,654",Real
-Davidson,full_2020,"134,729",Real
-Furman,full_2020,"102,723",Real
-Grinnell,full_2020,"139,558",Real
-Hamilton,full_2020,"142,149",Real
-Haverford,full_2020,"131,176",Real
-Macalester,full_2020,"126,583",Real
-Middlebury,full_2020,"140,387",Real
-Oberlin,full_2020,"122,742",Real
-Pomona,full_2020,"160,491",Real
-Swarthmore,full_2020,"156,329",Real
-Vassar,full_2020,"142,788",Real
-Washington and Lee,full_2020,"143,853",Real
-Wesleyan,full_2020,"158,455",Real
-Williams,full_2020,"149,903",Real
-Amherst,assoc_2020,"110,986",Real
-Bates,assoc_2020,"105,217",Real
-Bowdoin,assoc_2020,"113,680",Real
-Carleton,assoc_2020,"107,210",Real
-Claremont McKenna,assoc_2020,"128,042",Real
-Colby,assoc_2020,"105,841",Real
-Colgate,assoc_2020,"108,479",Real
-Davidson,assoc_2020,"98,243",Real
-Furman,assoc_2020,"82,983",Real
-Grinnell,assoc_2020,"105,908",Real
-Hamilton,assoc_2020,"108,150",Real
-Haverford,assoc_2020,"101,031",Real
-Macalester,assoc_2020,"95,133",Real
-Middlebury,assoc_2020,"104,368",Real
-Oberlin,assoc_2020,"94,994",Real
-Pomona,assoc_2020,"120,016",Real
-Swarthmore,assoc_2020,"111,489",Real
-Vassar,assoc_2020,"111,493",Real
-Washington and Lee,assoc_2020,"115,712",Real
-Wesleyan,assoc_2020,"111,008",Real
-Williams,assoc_2020,"106,040",Real
-Amherst,assist_2020,"93,329",Real
-Bates,assist_2020,"85,862",Real
-Bowdoin,assist_2020,"91,352",Real
-Carleton,assist_2020,"88,514",Real
-Claremont McKenna,assist_2020,"108,670",Real
-Colby,assist_2020,"88,084",Real
-Colgate,assist_2020,"92,464",Real
-Davidson,assist_2020,"79,877",Real
-Furman,assist_2020,"70,364",Real
-Grinnell,assist_2020,"87,727",Real
-Hamilton,assist_2020,"88,383",Real
-Haverford,assist_2020,"84,959",Real
-Macalester,assist_2020,"79,775",Real
-Middlebury,assist_2020,"90,234",Real
-Oberlin,assist_2020,"72,109",Real
-Pomona,assist_2020,"98,629",Real
-Swarthmore,assist_2020,"87,690",Real
-Vassar,assist_2020,"89,258",Real
-Washington and Lee,assist_2020,"95,154",Real
+Amherst,full_2020,"155833",Real
+Bates,full_2020,"134487",Real
+Bowdoin,full_2020,"146857",Real
+Carleton,full_2020,"141305",Real
+Claremont McKenna,full_2020,"176098",Real
+Colby,full_2020,"145971",Real
+Colgate,full_2020,"151654",Real
+Davidson,full_2020,"134729",Real
+Furman,full_2020,"102723",Real
+Grinnell,full_2020,"139558",Real
+Hamilton,full_2020,"142149",Real
+Haverford,full_2020,"131176",Real
+Macalester,full_2020,"126583",Real
+Middlebury,full_2020,"140387",Real
+Oberlin,full_2020,"122742",Real
+Pomona,full_2020,"160491",Real
+Swarthmore,full_2020,"156329",Real
+Vassar,full_2020,"142788",Real
+Washington and Lee,full_2020,"143853",Real
+Wesleyan,full_2020,"158455",Real
+Williams,full_2020,"149903",Real
+Amherst,assoc_2020,"110986",Real
+Bates,assoc_2020,"105217",Real
+Bowdoin,assoc_2020,"113680",Real
+Carleton,assoc_2020,"107210",Real
+Claremont McKenna,assoc_2020,"128042",Real
+Colby,assoc_2020,"105841",Real
+Colgate,assoc_2020,"108479",Real
+Davidson,assoc_2020,"98243",Real
+Furman,assoc_2020,"82983",Real
+Grinnell,assoc_2020,"105908",Real
+Hamilton,assoc_2020,"108150",Real
+Haverford,assoc_2020,"101031",Real
+Macalester,assoc_2020,"95133",Real
+Middlebury,assoc_2020,"104368",Real
+Oberlin,assoc_2020,"94994",Real
+Pomona,assoc_2020,"120016",Real
+Swarthmore,assoc_2020,"111489",Real
+Vassar,assoc_2020,"111493",Real
+Washington and Lee,assoc_2020,"115712",Real
+Wesleyan,assoc_2020,"111008",Real
+Williams,assoc_2020,"106040",Real
+Amherst,assist_2020,"93329",Real
+Bates,assist_2020,"85862",Real
+Bowdoin,assist_2020,"91352",Real
+Carleton,assist_2020,"88514",Real
+Claremont McKenna,assist_2020,"108670",Real
+Colby,assist_2020,"88084",Real
+Colgate,assist_2020,"92464",Real
+Davidson,assist_2020,"79877",Real
+Furman,assist_2020,"70364",Real
+Grinnell,assist_2020,"87727",Real
+Hamilton,assist_2020,"88383",Real
+Haverford,assist_2020,"84959",Real
+Macalester,assist_2020,"79775",Real
+Middlebury,assist_2020,"90234",Real
+Oberlin,assist_2020,"72109",Real
+Pomona,assist_2020,"98629",Real
+Swarthmore,assist_2020,"87690",Real
+Vassar,assist_2020,"89258",Real
+Washington and Lee,assist_2020,"95154",Real
 Wesleyan,assist_2020,"91,207",Real
-Williams,assist_2020,"93,837",Real
-Amherst,full_2020,"142,275",Cola
+Williams,assist_2020,"93837",Real
+Amherst,full_2020,"142275",Cola
 Bates,full_2020,"153,181",Cola
-Bowdoin,full_2020,"137,458",Cola
-Carleton,full_2020,"137,914",Cola
-Claremont McKenna,full_2020,"60,402",Cola
-Colby,full_2020,"177,063",Cola
-Colgate,full_2020,"175,008",Cola
-Davidson,full_2020,"112,095",Cola
-Furman,full_2020,"114,331",Cola
-Grinnell,full_2020,"168,586",Cola
-Hamilton,full_2020,"176,976",Cola
-Haverford,full_2020,"38,828",Cola
-Macalester,full_2020,"128,355",Cola
-Middlebury,full_2020,"144,318",Cola
-Oberlin,full_2020,"150,850",Cola
-Pomona,full_2020,"55,048",Cola
-Swarthmore,full_2020,"136,944",Cola
-Vassar,full_2020,"139,219",Cola
-Washington and Lee,full_2020,"164,424",Cola
-Wesleyan,full_2020,"154,335",Cola
-Williams,full_2020,"148,554",Cola
-Amherst,assoc_2020,"101,330",Cola
-Bates,assoc_2020,"119,842",Cola
-Bowdoin,assoc_2020,"106,405",Cola
+Bowdoin,full_2020,"137458",Cola
+Carleton,full_2020,"137914",Cola
+Claremont McKenna,full_2020,"60402",Cola
+Colby,full_2020,"177063",Cola
+Colgate,full_2020,"175008",Cola
+Davidson,full_2020,"112095",Cola
+Furman,full_2020,"114331",Cola
+Grinnell,full_2020,"168586",Cola
+Hamilton,full_2020,"176976",Cola
+Haverford,full_2020,"38828",Cola
+Macalester,full_2020,"128355",Cola
+Middlebury,full_2020,"144318",Cola
+Oberlin,full_2020,"150850",Cola
+Pomona,full_2020,"55048",Cola
+Swarthmore,full_2020,"136944",Cola
+Vassar,full_2020,"139219",Cola
+Washington and Lee,full_2020,"164424",Cola
+Wesleyan,full_2020,"154335",Cola
+Williams,full_2020,"148554",Cola
+Amherst,assoc_2020,"101330",Cola
+Bates,assoc_2020,"119842",Cola
+Bowdoin,assoc_2020,"106405",Cola
 Carleton,assoc_2020,"104,637",Cola
-Claremont McKenna,assoc_2020,"43,918",Cola
-Colby,assoc_2020,"128,386",Cola
-Colgate,assoc_2020,"125,185",Cola
-Davidson,assoc_2020,"81,738",Cola
-Furman,assoc_2020,"92,360",Cola
-Grinnell,assoc_2020,"127,936",Cola
-Hamilton,assoc_2020,"134,647",Cola
-Haverford,assoc_2020,"29,905",Cola
-Macalester,assoc_2020,"96,465",Cola
-Middlebury,assoc_2020,"107,290",Cola
-Oberlin,assoc_2020,"116,748",Cola
-Pomona,assoc_2020,"41,166",Cola
-Swarthmore,assoc_2020,"97,665",Cola
-Vassar,assoc_2020,"108,706",Cola
-Washington and Lee,assoc_2020,"132,259",Cola
-Wesleyan,assoc_2020,"108,121",Cola
-Williams,assoc_2020,"105,085",Cola
-Amherst,assist_2020,"85,859",Cola
-Bates,assist_2020,"85,862",Cola
-Bowdoin,assist_2020,"85,506",Cola
-Carleton,assist_2020,"86,389",Cola
-Claremont McKenna,assist_2020,"37,274",Cola
-Colby,assist_2020,"106,846",Cola
-Colgate,assist_2020,"106,704",Cola
-Davidson,assist_2020,"66,458",Cola
-Furman,assist_2020,"78,315",Cola
-Grinnell,assist_2020,"105,974",Cola
-Hamilton,assist_2020,"110,037",Cola
-Haverford,assist_2020,"25,148",Cola
-Macalester,assist_2020,"80,892",Cola
-Middlebury,assist_2020,"92,761",Cola
-Oberlin,assist_2020,"88,623",Cola
-Pomona,assist_2020,"33,830",Cola
-Swarthmore,assist_2020,"76,816",Cola
-Vassar,assist_2020,"87,026",Cola
-Washington and Lee,assist_2020,"108,761",Cola
-Wesleyan,assist_2020,"88,836",Cola
-Williams,assist_2020,"92,993",Cola
+Claremont McKenna,assoc_2020,"43918",Cola
+Colby,assoc_2020,"128386",Cola
+Colgate,assoc_2020,"125185",Cola
+Davidson,assoc_2020,"81738",Cola
+Furman,assoc_2020,"92360",Cola
+Grinnell,assoc_2020,"127936",Cola
+Hamilton,assoc_2020,"134647",Cola
+Haverford,assoc_2020,"29905",Cola
+Macalester,assoc_2020,"96465",Cola
+Middlebury,assoc_2020,"107290",Cola
+Oberlin,assoc_2020,"116748",Cola
+Pomona,assoc_2020,"41166",Cola
+Swarthmore,assoc_2020,"97665",Cola
+Vassar,assoc_2020,"108706",Cola
+Washington and Lee,assoc_2020,"132259",Cola
+Wesleyan,assoc_2020,"108121",Cola
+Williams,assoc_2020,"105085",Cola
+Amherst,assist_2020,"85859",Cola
+Bates,assist_2020,"85862",Cola
+Bowdoin,assist_2020,"85506",Cola
+Carleton,assist_2020,"86389",Cola
+Claremont McKenna,assist_2020,"37274",Cola
+Colby,assist_2020,"106846",Cola
+Colgate,assist_2020,"106704",Cola
+Davidson,assist_2020,"66458",Cola
+Furman,assist_2020,"78315",Cola
+Grinnell,assist_2020,"105974",Cola
+Hamilton,assist_2020,"110037",Cola
+Haverford,assist_2020,"25148",Cola
+Macalester,assist_2020,"80892",Cola
+Middlebury,assist_2020,"92761",Cola
+Oberlin,assist_2020,"88623",Cola
+Pomona,assist_2020,"33830",Cola
+Swarthmore,assist_2020,"76816",Cola
+Vassar,assist_2020,"87026",Cola
+Washington and Lee,assist_2020,"108761",Cola
+Wesleyan,assist_2020,"88836",Cola
+Williams,assist_2020,"92993",Cola
